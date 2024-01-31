@@ -1,0 +1,9 @@
+/* width:70+"%",outline:2+"px"+"white"+"solid", color:"white", placeholder:"white" */
+.search{
+    width: 70%;
+    outline:2px soil white;
+    color: white;
+}
+.search::placeholder{
+    color: green;
+}
